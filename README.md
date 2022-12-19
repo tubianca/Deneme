@@ -1,2 +1,2 @@
-# Deneme..
+# Deneme.
 deneme
