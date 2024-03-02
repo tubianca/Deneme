@@ -26,7 +26,7 @@
     },
     "repository":{
     "type": "git",
-    "url": "https://github.com/tubianca/Deneme"
+    "url": "git://github.com/tubianca/Deneme.git"
   },
   "license": "ISC", 
   "homepage": "https://github.com/tubianca/Deneme"
